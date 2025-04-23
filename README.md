@@ -47,8 +47,8 @@ A simple, clean bar chart example for Android apps. Designed for extensibility �
 ## 🏆 Projects I'm Proud Of
 
 - **Auxby** – a mobile bidding platform I co-founded, built, and sold
-- **Voice Cloning App** – a storytelling app for children using parents' voices
-- **Cross-platform Projects** – full-stack solutions built with React, Flutter, Java
+- **Voice Cloning App** – a storytelling app for children using parents' voices with AI
+- **Cross-platform Projects** – full-stack solutions built with React, Android, Java
 - **Internal Contributions** – architectural templates, tech mentorship, process improvements
 
 ---
