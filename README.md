@@ -2,7 +2,7 @@
 
 🎯 **Senior Android Developer | Mobile Tech Lead | Product-Oriented Engineer**
 
-I'm a passionate Android developer with over 7 years of experience building scalable, modern, and user-focused mobile applications. I combine strong technical skills in native Android (Kotlin, Jetpack Compose, MVVM) with product thinking, business insight, and leadership. I have led teams, founded startups, and delivered end-to-end solutions — from concept to launch.
+I'm a passionate Android developer with over 7 years of experience building scalable, modern, and user-focused mobile applications. I combine strong technical skills in native Android (Kotlin, Jetpack Compose, MVVM) with product thinking, business insight, and leadership. I have led teams, founded startup, and delivered end-to-end solutions — from concept to launch.
 
 ## 🚀 Open Source Projects
 
