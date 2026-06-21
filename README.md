@@ -56,7 +56,7 @@ A simple, clean bar chart example for Android apps. Designed for extensibility �
 ## 📫 Let’s Connect
 
 - 📧 Email: candrea.eusebiu95@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/eusebiu-candrea-305a65140/]
+- 💼 LinkedIn: (https://www.linkedin.com/in/eusebiu-candrea-305a65140/)
 - 🏗️ Partner @ [Hypercode Software](https://hypercode.ro/)
 - 💻 GitHub: [https://github.com/EusebiuCandrea](https://github.com/EusebiuCandrea)
 
